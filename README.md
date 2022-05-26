@@ -4,7 +4,7 @@
 [!Demo](https://user-images.githubusercontent.com/21915538/170601974-8083f2a8-931a-47f1-9ee0-fc65e4ffd5ed.mp4)
 
 
-#### 🚀 Objective of this module
+#### 🚀 Learning Objective
 * Bootstrap
 * Components
 * Bootstrap utilities 
